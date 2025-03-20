@@ -1,0 +1,29 @@
+# Question's structures that the script can read.
+
+Pregunta 1: ¿Qué es el PET?
+
+Opciones:
+
+Un tipo de plástico. (Respuesta correcta)
+Una técnica de reciclaje. (Respuesta incorrecta)
+Un proceso de fabricación. (Respuesta incorrecta)
+Una normativa ambiental. (Respuesta incorrecta)
+
+Explicación: PET, o tereftalato de polietileno, es un tipo de plástico comúnmente utilizado en envases de bebidas y textiles.
+
+!
+
+Pregunta 2: ¿Cuál es una de las características principales del proceso de reciclaje mecánico del plástico?
+
+Opciones:
+A) Transforma los plásticos en combustibles o energía.
+B) Requiere la descomposición química del plástico para su reciclaje.
+C) Incluye la limpieza, trituración y fundición del plástico para crear nuevos productos.
+D) Utiliza microorganismos para descomponer los plásticos.
+E) Genera subproductos tóxicos que son difíciles de manejar.
+
+Opción correcta: C) Incluye la limpieza, trituración y fundición del plástico para crear nuevos productos.
+
+Explicación: En el reciclaje mecánico, el plástico se limpia, se tritura y luego se funde para formar nuevos productos, lo que es una forma eficiente y común de reciclar materiales plásticos.
+
+!
